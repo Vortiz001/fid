@@ -1,2 +1,2 @@
 # fid
-Fundamentals of Interactive Design class
+Repo for Fundamentals of Interactive Design class
